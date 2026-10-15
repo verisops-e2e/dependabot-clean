@@ -4,6 +4,6 @@
   "private": true,
   "description": "VerisOps e2e fixture with no known-vulnerable dependencies.",
   "dependencies": {
-    "lodash": "4.17.21"
+    "lodash": "4.18.1"
   }
 }
